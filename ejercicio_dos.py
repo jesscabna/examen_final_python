@@ -15,3 +15,5 @@ numeros= [2,3,4,6,7,8,9,10]
 salida=numeros_primos(numeros)
 print(salida)
 
+
+
